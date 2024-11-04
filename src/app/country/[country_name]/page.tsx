@@ -22,7 +22,7 @@ const countries:{
       population:123452377
     } , 
     {
-      name:"Saudiya",
+      name:"Saudia",
       capital:"Riyadh",
       population:34156175
     },
